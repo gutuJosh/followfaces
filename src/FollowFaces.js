@@ -112,8 +112,6 @@ class FollowFaces{
          else if(angle >= 301 && angle < 361){
           element.style.backgroundPosition="-"+(this.scrollStep*3)+"px 0";
          }
-
     }
-
 }
 export default FollowFaces;

@@ -1,4 +1,4 @@
-import image from "./m_over.jpg";
+import image from "./m_over.jpg"; 
 
 const docFrag = document.createDocumentFragment();
 const img = document.createElement("img");
