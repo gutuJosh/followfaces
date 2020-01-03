@@ -1,0 +1,21 @@
+body{
+    background-color:#efefef;
+}
+ 
+
+.strip-holder{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    max-width:280px;
+    width:100%;
+    background:url('strip.jpg') top left no-repeat;
+}
+.strip-holder img{
+    display:inline-block;
+    width:100%;
+    max-width:280px;
+    vertical-align: middle;
+}
+
