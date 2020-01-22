@@ -12,9 +12,10 @@ Now will pass to the post-production phase. You will have to merge the fisrt 8 s
 Now that you have a pofile picture, add this code to your html page:
 <div class="highlight highlight-text-html-basic">
   <pre>&lt;<span class="pl-ent">body</span>&gt;
-  &lt;<span class="pl-ent">div</span> class="strip-holder"&gt;
-  &lt;<span class="pl-ent">img</span> <span class="pl-e">src</span>="your-ninth-shot"/&gt;
-  &lt;/<span class="pl-ent">div</span>&gt;
+  ..................
+  &nbsp;&lt;<span class="pl-ent">div</span> class="strip-holder"&gt;
+  &nbsp;&nbsp;&lt;<span class="pl-ent">img</span> <span class="pl-e">src</span>="your-ninth-shot"/&gt;
+  &nbsp;&lt;/<span class="pl-ent">div</span>&gt;
   &lt;<span class="pl-ent">script <span class="pl-e">src</span>="followFaces.bundle.js"</span>&gt;&lt;/<span class="pl-ent">script</span>&gt;
   &lt;/<span class="pl-ent">body</span>&gt;
   </pre>
